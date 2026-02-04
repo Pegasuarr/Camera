@@ -46,7 +46,7 @@ Or download the JAR files manually:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/camera-application.git
+   git clone https://github.com/Leangheng-huge/camera-application.git
    cd camera-application
    ```
 
@@ -157,7 +157,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-Your Name - [@yourhandle](https://github.com/Leangheng-huge)
+Leangheng-huge - [@Leangheng-huge](https://github.com/Leangheng-huge)
 
 ## 🙏 Acknowledgments
 
