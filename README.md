@@ -52,6 +52,6 @@ Images saved to `src/gallery/` as `IMG_yyyyMMdd_HHmmss.png`
 - **OpenCV errors**: Verify library is in classpath and matches system architecture
 - **Can't save**: Ensure write permissions in `src/gallery/`
 
-## 👤 Author
+## Created By: 
 
 Leangheng Korn - [@Leangheng-huge](https://github.com/Leangheng-huge)
