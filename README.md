@@ -157,7 +157,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-Leangheng-huge - [@Leangheng-huge](https://github.com/Leangheng-huge)
+Leangheng Korn - [@Leangheng-huge](https://github.com/Leangheng-huge)
 
 ## 🙏 Acknowledgments
 
