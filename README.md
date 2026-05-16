@@ -54,4 +54,4 @@ Images saved to `src/gallery/` as `IMG_yyyyMMdd_HHmmss.png`
 
 ## Created By: 
 
-Leangheng Korn - [@Leangheng-huge](https://github.com/Leangheng-huge)
+Leangheng Korn - [@Pegasuarr](https://github.com/Pegasuarr)
