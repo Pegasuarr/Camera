@@ -9,6 +9,10 @@ A simple Java Swing desktop app for capturing photos using your webcam and manag
 - View, delete, or clear images
 - Auto-save with timestamps
 
+## Diagram
+
+<img width="895" height="870" alt="Image" src="https://github.com/user-attachments/assets/b41949aa-ae95-4007-baf1-5a27e56d209b" />
+
 ##  Tech Stack
 
 - Java Swing
