@@ -1,21 +1,21 @@
-# 📷 Camera Application
+#  Camera Application
 
 A simple Java Swing desktop app for capturing photos using your webcam and managing them in a gallery.
 
-## ✨ Features
+##  Features
 
 - Real-time camera capture
 - Photo gallery with grid view
 - View, delete, or clear images
 - Auto-save with timestamps
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Java Swing
 - OpenCV (computer vision & camera access)
 - Nu Pattern OpenCV (Java bindings)
 
-## 🚀 Quick Start
+##  Quick Start
 
 1. **Clone the repo**
    ```bash
@@ -38,7 +38,7 @@ A simple Java Swing desktop app for capturing photos using your webcam and manag
    java -cp ".:opencv-*.jar" Main
    ```
 
-## 💻 Usage
+##  Usage
 
 - **Main Menu**: Choose Camera, Gallery, or Exit
 - **Camera**: Click "Take Picture" to capture, "Back" to return
@@ -46,7 +46,7 @@ A simple Java Swing desktop app for capturing photos using your webcam and manag
 
 Images saved to `src/gallery/` as `IMG_yyyyMMdd_HHmmss.png`
 
-## ⚠️ Troubleshooting
+##  Troubleshooting
 
 - **Camera not found**: Check webcam connection and permissions
 - **OpenCV errors**: Verify library is in classpath and matches system architecture
