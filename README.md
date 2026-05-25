@@ -31,13 +31,6 @@ A simple Java Swing desktop app for capturing photos using your webcam and manag
        <version>4.7.0-0</version>
    </dependency>
    ```
-
-3. **Run**
-   ```bash
-   javac -cp ".:opencv-*.jar" *.java
-   java -cp ".:opencv-*.jar" Main
-   ```
-
 ##  Usage
 
 - **Main Menu**: Choose Camera, Gallery, or Exit
